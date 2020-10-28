@@ -1,0 +1,79 @@
+body {
+    font-family: Times New Roman, sans-serif;
+}
+
+h1 {
+    font-weight: lighter;
+    text-align: center ;
+}
+
+h2 {
+    color: black;
+    font-size: 10pt;
+    text-align: center;
+    
+} 
+
+p {
+    color: black;
+    font-size: 15pt;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: inherit;
+
+}
+
+
+h3{
+ font-weight: bolder;
+    
+}
+
+li {
+    list-style-type: none;
+    font-family: Times New Roman;
+    font-size: 15pt;
+        
+  } 
+ 
+#header_one {
+    
+height: 80px;
+background-color: darkblue;
+
+    
+}
+
+img{
+    width: 60%;
+    margin-right: auto;
+    margin-right: auto;
+    align-content: center;
+    
+
+}
+
+.portada {
+    width: 100%;
+}
+
+.subrayado{
+    text-decoration: underline;
+    
+}
+
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+    
+}
+
+.pie {
+    width: 50%;
+    align-content: center;
+
+    
+}
