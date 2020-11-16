@@ -1,0 +1,41 @@
+body {
+    font-family: Calibri, sans-serif;
+}
+
+h1 {
+    font-weight: lighter;
+}
+
+h2 {
+    color: black;
+    font-size: 25pt;
+} 
+
+p {
+    color: black;
+    font-size: 15pt;
+    overflow: scroll;
+}
+
+ul {
+    color: grey;
+    font-size: 15pt;
+}
+
+li {
+    list-style-type: none;
+  } 
+ 
+a { text-decoration: none
+
+
+    
+    
+}
+
+a:hover { text-decoration: underline
+
+}
+.enlaceNada { text-decoration: line-through
+
+}
