@@ -1,0 +1,158 @@
+p{
+    color: black;
+    font-size: 15pt;
+    overflow: scroll;
+    
+    }
+header {
+    text-align: right;
+
+    }
+
+footer {
+    text-align: left;
+    background-color: black;
+  
+    
+     }
+    
+h1 {
+    position: relative;
+    left: 0px;
+    right: 50px;
+
+    }
+
+.foot {
+    text-align: left;
+    background-color: black;
+    color: white;
+  
+    
+     }
+.caja {
+    position: relative;
+    display: inline-block;
+
+     }
+.texto1 {
+    position: absolute;
+    top: 200px;
+    left: 90px;
+    font-family: Times New Roman;
+    font-size: 22pt;
+    color: black;
+    text-align: left;
+    width: 500px;
+
+     }
+
+.texto2 {
+    position: absolute;
+    top: 310px;
+    left: 90px;
+    font-family: Times New Roman;
+    font-size: 13pt;
+    color: black;
+    width: 500px;
+
+     }
+
+.texto3 {
+    position: absolute;
+    top: 450px;
+    left: 90px;
+    font-family: Times New Roman;
+    font-size: 13pt;
+    color: dodgerblue;
+    width: 500px;
+
+     }
+
+.texto4 {
+    position: absolute;
+    top: 10px;
+    left: 1100px;
+    font-family: Times New Roman;
+    font-size: 13pt;
+    color: white;
+    width: 500px;
+
+     }
+
+
+.img1 {
+    position: absolute;
+    top: 10px;
+    left: 90px;
+    width: 80px;
+    
+}
+
+.box1 {
+    
+    position: absolute;
+    top: 500px;
+    left: 120px;
+    width: 150px;
+   background-color: dodgerblue;
+    color: white;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+
+    
+    }
+
+
+.texto5 {
+    position: absolute;
+    top: 625px;
+    left: 740px;
+    font-family: Times New Roman;
+    font-size: 15pt;
+    color: black;
+    width: 500px;
+    
+
+    }
+
+.box2{
+   position: absolute;
+   top: 750px;
+ 
+
+}
+
+.texto6{
+    position: absolute;
+    top: 10px;
+    left: 100px;
+    color: yellow;
+    font-size: 15pt;
+    
+     
+}
+
+.texto7 {
+    position: absolute;
+    top: 675px;
+    left: 740px;
+    font-family: Times New Roman;
+    font-size: 15pt;
+    color: black;
+    width: 500px;
+    
+    } 
+
+.texto8{
+    position: absolute;
+    top: 10px;
+    left: 350px;
+    color: white;
+    font-size: 15pt;
+    
+     
+}
