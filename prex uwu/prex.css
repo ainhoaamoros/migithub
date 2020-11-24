@@ -1,0 +1,39 @@
+img { align-content: center;
+}
+
+li {
+    display: inline-block;
+    font-size: 15pt;
+    text-align: left ;
+    padding: inherit;
+    list-style-type: none;
+    
+        
+    }
+
+
+ul {
+    background-color: chartreuse;
+   
+    
+        
+}
+
+  .box1 {
+    
+    
+    width: 100%;
+   background-color: chartreuse;
+    color: white;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+
+    
+    }
+.texto2{
+    color: black;
+}
+
