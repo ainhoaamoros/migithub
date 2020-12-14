@@ -1,0 +1,49 @@
+.box {
+    
+    flex: row;
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    
+    
+}
+
+.titulo {
+    
+    width: 400px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    
+}
+
+.link{
+     margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+   
+}
+
+.imagenprincipal{
+   
+    
+    margin-left: 100px;
+   
+}
+
+.logo{ 
+    
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 600px;
+
+}
+
+
+   
